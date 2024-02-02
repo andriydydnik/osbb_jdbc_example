@@ -1,0 +1,10 @@
+2023-09-07 21:35:32 INFO  App:18 - The program has started
+2023-09-07 21:35:37 FATAL App:36 - java.sql.SQLException: Parameter index out of range (0 < 1 ).
+2023-09-07 21:36:07 INFO  App:18 - The program has started
+2023-09-07 21:36:12 FATAL App:36 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Микола'' at line 4
+2023-09-07 21:36:38 INFO  App:18 - The program has started
+2023-09-07 21:37:47 INFO  App:18 - The program has started
+2023-09-07 21:38:01 INFO  App:18 - The program has started
+2023-09-07 21:40:04 INFO  App:18 - The program has started
+2023-09-07 21:40:53 INFO  App:18 - The program has started
+2023-09-07 21:40:55 TRACE App:? - {3 -- Шульман Олексій}

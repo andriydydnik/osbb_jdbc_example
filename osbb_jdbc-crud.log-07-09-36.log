@@ -1,0 +1,8 @@
+2023-09-07 21:36:07 INFO  OsbbCrud:44 - Crud has initialized
+2023-09-07 21:36:07 DEBUG OsbbCrud:34 - Flyway migration execute
+2023-09-07 21:36:08 TRACE OsbbCrud:? - Call getting members with auto not allowed method
+2023-09-07 21:36:08 TRACE OsbbCrud:? - Call getting member by ID method
+2023-09-07 21:36:38 INFO  OsbbCrud:44 - Crud has initialized
+2023-09-07 21:36:38 DEBUG OsbbCrud:34 - Flyway migration execute
+2023-09-07 21:36:39 TRACE OsbbCrud:? - Call getting members with auto not allowed method
+2023-09-07 21:36:39 TRACE OsbbCrud:? - Call getting member by ID method
